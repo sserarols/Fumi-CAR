@@ -20,7 +20,7 @@
 
 title: Fumi-CAR
 description: >- # this means to ignore newlines until "baseurl:"
-   Science communication page for the bacherlor's project "Fumi-CAR: A Chimeric Antigen Receptor Immunotherapy Approach to eradicate <i> Aspergillus fumigatus </i> in the Leukaemic Lung"
+   Science communication page for the bacherlor's project "Fumi-CAR: A Chimeric Antigen Receptor Immunotherapy Approach to eradicate <i> Aspergillus fumigatus </i> in the Immunocompromised Leukaemic Lung"
 baseurl: "/Fumi-CAR"
 url: "https://sserarols.github.io"
 
