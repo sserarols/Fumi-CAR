@@ -12,6 +12,8 @@ them without us ever noticing. But for people with leukaemia, whose immune syste
 are already weakened by the disease and its treatment, these same particles can cause 
 a severe lung infection that becomes life-threatening.
 
+![lungs](/assets/img/lungs.png)
+
 This infection affects more than 1 in 20 leukaemia patients. Despite treatment, almost 
 half of them do not survive. The medicines available today are harsh, often clash with 
 cancer drugs, and are slowly losing their power as the mould becomes resistant to them.
@@ -22,6 +24,8 @@ cancer drugs, and are slowly losing their power as the mould becomes resistant t
 Fumi-CAR is an experimental therapy that uses the patient's own immune cells — 
 the body's natural defenders — and teaches them in the laboratory to recognise 
 and attack the mould.
+
+![car](/assets/img/car.png)
 
 - **Step 1 — Collect:** A small sample of immune cells is taken from the patient's blood.
 
@@ -38,3 +42,5 @@ and attack the mould.
 - **For medicine:** This is one of the first times this kind of therapy has been used against an infection rather than cancer. It could change how we treat dangerous infections in the future.
 
 - **For all of us:** Fewer people lost to this infection means fewer families devastated, and less pressure on hospitals. It is a small step toward a world where our own immune system becomes our most powerful medicine.
+
+![family](/assets/img/family.png)
