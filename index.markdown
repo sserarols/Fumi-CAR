@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Engineering the immune system to fight a deadly fungal infection in leukaemia patients
+no-posts: true
+accent_image: /assets/img/splash.jpg
 ---
+

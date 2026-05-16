@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TFG - S. Serarols
+title: Fumi-CAR
 description: >- # this means to ignore newlines until "baseurl:"
-  Github page for the bacherlor's project "Fumi-CAR: A Chimeric Antigen Receptor Immunotherapy Approach to eradicate <Aspergillus fumigatus> in the Leukaemic Lung"
+   Science communication page for the bacherlor's project "Fumi-CAR: A Chimeric Antigen Receptor Immunotherapy Approach to eradicate <i> Aspergillus fumigatus </i> in the Leukaemic Lung"
 baseurl: "/Fumi-CAR"
 url: "https://sserarols.github.io"
 
@@ -29,6 +29,10 @@ theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
+  
+author:
+  - name: Fumi-CAR
 
 # Exclude from processing.
 # The following items will not be processed, by default.
