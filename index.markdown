@@ -44,3 +44,5 @@ and attack the mould.
 - **For all of us:** Fewer people lost to this infection means fewer families devastated, and less pressure on hospitals. It is a small step toward a world where our own immune system becomes our most powerful medicine.
 
 ![family](assets/img/family.png)
+
+<a href="{{ site.baseurl }}/assets/docs/TFG_FumiCAR_Serarols.pdf" class="btn btn-primary" target="_blank">Read the full document</a>
