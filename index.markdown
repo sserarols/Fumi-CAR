@@ -45,4 +45,4 @@ and attack the mould.
 
 ![family](assets/img/family.png)
 
-<a href="{{ site.baseurl }}/assets/docs/TFG_FumiCAR_Serarols.pdf" class="btn btn-primary" target="_blank">Read the full document</a>
+<a href="{{ site.baseurl }}/assets/docs/TFG_FumiCAR_Serarols.pdf" class="btn btn-primary" target="_blank">Read the full project</a>
