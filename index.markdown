@@ -45,4 +45,4 @@ and attack the mould.
 
 ![family](assets/img/family.png)
 
-<a href="{{ [site.baseurl }}/assets/docs/TFG_FumiCAR_Serarols.pdf](https://uab-my.sharepoint.com/:b:/r/personal/1626084_uab_cat/Documents/TFG_FumiCAR_Serarols.pdf?csf=1&web=1&e=uB51sV)" class="btn btn-primary" target="_blank">Read the full project</a>
+<a href="{{ [site.baseurl }}/assets/docs/TFG_FumiCAR_Serarols.pdf](https://uab-my.sharepoint.com/:b:/g/personal/1626084_uab_cat/IQBq3ZSky8FyRKMmlODZpO4xAWaKcu_923ZOEgr1APZcxv0?e=sL0avh)" class="btn btn-primary" target="_blank">Read the full project</a>
